@@ -4,6 +4,8 @@
 
 An AI-powered business idea analysis tool that provides comprehensive feedback through Herman Poppleberry, your friendly AI business plan review assistant.
 
+![alt text](agent-summary.png)
+
 ## Features
 
 - **Intelligent Analysis**: Uses Gemini Pro 2.5 to analyze business ideas with venture capitalist-level insights
