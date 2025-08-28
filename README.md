@@ -14,6 +14,29 @@ An AI-powered business idea analysis tool that provides comprehensive feedback t
 - **Multiple Voice Styles**: Choose from upbeat, serious, or flippant delivery styles
 
 
+## Example Run
+
+### Input: Baby QR Onesies Business Idea
+
+[![📄 View Input](https://img.shields.io/badge/📄_Input-Baby_QR_Onesies-blue?style=for-the-badge)](example-run/user-idea.md)
+
+The agent processed a real business idea about QR code-enabled baby onesies for Home Assistant integration.
+
+### AI-Generated Output (Herman Poppleberry's Analysis)
+
+[![📄 Text](https://img.shields.io/badge/📄_Text-Analysis-green?style=for-the-badge)](example-run/ai-response/baby-qr-onesies_analysis.txt)
+[![📝 Markdown](https://img.shields.io/badge/📝_Markdown-Analysis-blue?style=for-the-badge)](example-run/ai-response/baby-qr-onesies_analysis.md)
+[![📄 PDF](https://img.shields.io/badge/📄_PDF-Analysis-red?style=for-the-badge)](example-run/ai-response/baby-qr-onesies_analysis.pdf)
+[![🎵 Audio](https://img.shields.io/badge/🎵_Audio-Feedback-purple?style=for-the-badge)](example-run/ai-response/baby-qr-onesies_audio.wav)
+
+**Organized Output Folder**: `agent/feedback/20250828_170126_baby-qr-onesies/`
+
+The agent automatically:
+- Generated AI-suggested filename: `baby-qr-onesies`
+- Created timestamped folder with descriptive name
+- Produced comprehensive venture capitalist-style analysis
+- Generated multiple formats for different use cases
+
 ## Screenshots
 
 ### Agent delivers analysis by email
